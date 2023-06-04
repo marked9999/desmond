@@ -5,7 +5,7 @@
     "scripts": {
         "build": "npm install desmond-emu",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "http-server"
+        "start": "node server.js"
     },
     "repository": {
         "type": "git",
