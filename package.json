@@ -1,11 +1,11 @@
 {
     "name": "desmond",
     "version": "1.0.0",
-   "description": "",
+    "description": "",
     "scripts": {
         "build": "sh installer.sh",
         "test": "echo \"No test specified\" && exit 1",
-        "start": ""
+        "start": "http-server"
     },
     "repository": {
         "type": "git",
