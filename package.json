@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "npm install desmond-emu",
+        "build": "curl https://raw.githubusercontent.com/js-emulators/desmond/main/installer.sh | sh",
         "test": "echo \"No test specified\" && exit 1",
-        "start": ""
+        "start": "node server.js"
     },
     "repository": {
         "type": "git",
