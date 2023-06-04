@@ -14,7 +14,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "http-server": "14.1.1"
+        "http-server": "14.1.1",
+        "wget":"0.0.1"
     },
     "bugs": {
         "url": "https://github.com/marked9999/desmond/issues"
